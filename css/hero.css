@@ -1,0 +1,21 @@
+.hero__wrapper {
+   position: relative;
+   background-image: url('../img/bg.jpeg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   padding: 2rem;
+}
+.hero {
+    padding: 25rem 0 10rem;
+    position: relative;
+    background: rgba( 255, 255, 255, 0.5 );
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+@media screen and (min-width: 1024px)  {
+ 
+}
